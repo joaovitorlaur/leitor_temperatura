@@ -1,0 +1,6 @@
+print("Digite uma temperatura: ")
+temp = float(input())
+if temp >= 30:
+  print("Perigo de superaquecimento!")
+else:
+  print("Temperatura normal!")
